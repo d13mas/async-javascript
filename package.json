@@ -1,0 +1,17 @@
+{
+  "name": "async-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculate-sqaure.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test:mocha": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.0.3",
+    "mocha": "^10.2.0"
+  }
+}
